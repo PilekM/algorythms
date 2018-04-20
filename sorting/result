@@ -1,0 +1,600 @@
+n: 100
+Insert | time: 0,31ms, swaps: 2715 comp: 2715
+Merge | time: 0,26ms, swaps: 1344 comp: 1828
+Quicksort | time: 0,06ms, swaps: 390 comp: 649
+DPQuicksort | time: 0,06ms, swaps: 254 comp: 637
+
+n: 200
+Insert | time: 1,18ms, swaps: 10686 comp: 10686
+Merge | time: 0,52ms, swaps: 3088 comp: 4273
+Quicksort | time: 0,19ms, swaps: 903 comp: 1957
+DPQuicksort | time: 0,12ms, swaps: 619 comp: 1558
+
+n: 300
+Insert | time: 1,93ms, swaps: 22466 comp: 22466
+Merge | time: 0,12ms, swaps: 4976 comp: 6901
+Quicksort | time: 0,28ms, swaps: 1489 comp: 2412
+DPQuicksort | time: 0,34ms, swaps: 834 comp: 2448
+
+n: 400
+Insert | time: 3,87ms, swaps: 41613 comp: 41613
+Merge | time: 0,18ms, swaps: 6976 comp: 9683
+Quicksort | time: 0,11ms, swaps: 2107 comp: 3746
+DPQuicksort | time: 0,44ms, swaps: 1246 comp: 3427
+
+n: 500
+Insert | time: 0,42ms, swaps: 62504 comp: 62504
+Merge | time: 0,26ms, swaps: 8976 comp: 12540
+Quicksort | time: 0,1ms, swaps: 2639 comp: 4613
+DPQuicksort | time: 0,18ms, swaps: 1833 comp: 4862
+
+n: 600
+Insert | time: 1,07ms, swaps: 89277 comp: 89277
+Merge | time: 0,28ms, swaps: 11152 comp: 15587
+Quicksort | time: 0,15ms, swaps: 3397 comp: 5733
+DPQuicksort | time: 0,11ms, swaps: 2075 comp: 5924
+
+n: 700
+Insert | time: 1,41ms, swaps: 121053 comp: 121053
+Merge | time: 0,35ms, swaps: 13352 comp: 18739
+Quicksort | time: 0,16ms, swaps: 3957 comp: 7277
+DPQuicksort | time: 0,14ms, swaps: 2761 comp: 8060
+
+n: 800
+Insert | time: 2,07ms, swaps: 158541 comp: 158541
+Merge | time: 0,39ms, swaps: 15552 comp: 21799
+Quicksort | time: 0,17ms, swaps: 4803 comp: 8499
+DPQuicksort | time: 0,16ms, swaps: 3060 comp: 8217
+
+n: 900
+Insert | time: 0,75ms, swaps: 209581 comp: 209581
+Merge | time: 0,44ms, swaps: 17752 comp: 24932
+Quicksort | time: 0,22ms, swaps: 5635 comp: 10299
+DPQuicksort | time: 0,2ms, swaps: 4258 comp: 12159
+
+n: 1000
+Insert | time: 0,84ms, swaps: 249255 comp: 249255
+Merge | time: 0,5ms, swaps: 19952 comp: 28019
+Quicksort | time: 0,24ms, swaps: 6258 comp: 11276
+DPQuicksort | time: 0,28ms, swaps: 3685 comp: 11685
+
+n: 1100
+Insert | time: 1,13ms, swaps: 302201 comp: 302201
+Merge | time: 0,53ms, swaps: 22304 comp: 31472
+Quicksort | time: 0,17ms, swaps: 8241 comp: 12693
+DPQuicksort | time: 0,22ms, swaps: 5550 comp: 14815
+
+n: 1200
+Insert | time: 1,09ms, swaps: 363475 comp: 363475
+Merge | time: 0,42ms, swaps: 24704 comp: 34882
+Quicksort | time: 0,14ms, swaps: 7761 comp: 14236
+DPQuicksort | time: 0,26ms, swaps: 4628 comp: 13379
+
+n: 1300
+Insert | time: 1,22ms, swaps: 423178 comp: 423178
+Merge | time: 0,4ms, swaps: 27104 comp: 38272
+Quicksort | time: 0,16ms, swaps: 9510 comp: 16827
+DPQuicksort | time: 0,27ms, swaps: 5242 comp: 15672
+
+n: 1400
+Insert | time: 20,8ms, swaps: 483360 comp: 483360
+Merge | time: 2,06ms, swaps: 29504 comp: 41638
+Quicksort | time: 0,16ms, swaps: 9771 comp: 16872
+DPQuicksort | time: 0,24ms, swaps: 5813 comp: 16357
+
+n: 1500
+Insert | time: 1,56ms, swaps: 574862 comp: 574862
+Merge | time: 0,45ms, swaps: 31904 comp: 45005
+Quicksort | time: 0,17ms, swaps: 9104 comp: 16523
+DPQuicksort | time: 0,21ms, swaps: 6804 comp: 19620
+
+n: 1600
+Insert | time: 1,49ms, swaps: 641364 comp: 641364
+Merge | time: 0,34ms, swaps: 34304 comp: 48515
+Quicksort | time: 0,17ms, swaps: 9799 comp: 18993
+DPQuicksort | time: 0,16ms, swaps: 6353 comp: 18515
+
+n: 1700
+Insert | time: 1,65ms, swaps: 716875 comp: 716875
+Merge | time: 0,53ms, swaps: 36704 comp: 51891
+Quicksort | time: 0,16ms, swaps: 10965 comp: 20089
+DPQuicksort | time: 0,25ms, swaps: 7940 comp: 22009
+
+n: 1800
+Insert | time: 1,96ms, swaps: 826280 comp: 826280
+Merge | time: 0,53ms, swaps: 39104 comp: 55307
+Quicksort | time: 0,24ms, swaps: 12065 comp: 21183
+DPQuicksort | time: 0,27ms, swaps: 7991 comp: 21857
+
+n: 1900
+Insert | time: 2,09ms, swaps: 913156 comp: 913156
+Merge | time: 0,62ms, swaps: 41504 comp: 58658
+Quicksort | time: 0,25ms, swaps: 12812 comp: 21594
+DPQuicksort | time: 0,29ms, swaps: 8859 comp: 24288
+
+n: 2000
+Insert | time: 2,41ms, swaps: 1004299 comp: 1004299
+Merge | time: 0,62ms, swaps: 43904 comp: 62105
+Quicksort | time: 0,29ms, swaps: 17376 comp: 28349
+DPQuicksort | time: 0,31ms, swaps: 8470 comp: 25187
+
+n: 2100
+Insert | time: 2,7ms, swaps: 1113031 comp: 1113031
+Merge | time: 0,57ms, swaps: 46408 comp: 65692
+Quicksort | time: 0,21ms, swaps: 16366 comp: 28551
+DPQuicksort | time: 0,22ms, swaps: 9737 comp: 27540
+
+n: 2200
+Insert | time: 2,93ms, swaps: 1223054 comp: 1223054
+Merge | time: 0,6ms, swaps: 49008 comp: 69385
+Quicksort | time: 0,28ms, swaps: 15586 comp: 26823
+DPQuicksort | time: 0,26ms, swaps: 10567 comp: 29004
+
+n: 2300
+Insert | time: 4,18ms, swaps: 1341454 comp: 1341454
+Merge | time: 0,72ms, swaps: 51608 comp: 73151
+Quicksort | time: 0,31ms, swaps: 14261 comp: 27846
+DPQuicksort | time: 0,24ms, swaps: 10775 comp: 29638
+
+n: 2400
+Insert | time: 2,14ms, swaps: 1440501 comp: 1440501
+Merge | time: 0,77ms, swaps: 54208 comp: 76829
+Quicksort | time: 0,35ms, swaps: 17703 comp: 31169
+DPQuicksort | time: 0,71ms, swaps: 10114 comp: 30613
+
+n: 2500
+Insert | time: 6,79ms, swaps: 1549931 comp: 1549931
+Merge | time: 0,74ms, swaps: 56808 comp: 80619
+Quicksort | time: 0,33ms, swaps: 16666 comp: 34426
+DPQuicksort | time: 0,4ms, swaps: 11609 comp: 33127
+
+n: 2600
+Insert | time: 3,51ms, swaps: 1650063 comp: 1650063
+Merge | time: 1,04ms, swaps: 59408 comp: 84291
+Quicksort | time: 0,35ms, swaps: 18687 comp: 30726
+DPQuicksort | time: 0,41ms, swaps: 12013 comp: 33941
+
+n: 2700
+Insert | time: 5,71ms, swaps: 1842571 comp: 1842571
+Merge | time: 0,83ms, swaps: 62008 comp: 87976
+Quicksort | time: 0,37ms, swaps: 18378 comp: 39147
+DPQuicksort | time: 1,27ms, swaps: 11667 comp: 36670
+
+n: 2800
+Insert | time: 4,67ms, swaps: 1972721 comp: 1972721
+Merge | time: 0,91ms, swaps: 64608 comp: 91731
+Quicksort | time: 0,44ms, swaps: 24136 comp: 39988
+DPQuicksort | time: 0,3ms, swaps: 12811 comp: 39418
+
+n: 2900
+Insert | time: 3,28ms, swaps: 2129116 comp: 2129116
+Merge | time: 0,61ms, swaps: 67208 comp: 95467
+Quicksort | time: 0,29ms, swaps: 22186 comp: 39211
+DPQuicksort | time: 0,31ms, swaps: 14579 comp: 41119
+
+n: 3000
+Insert | time: 3,36ms, swaps: 2231547 comp: 2231547
+Merge | time: 0,97ms, swaps: 69808 comp: 99110
+Quicksort | time: 0,44ms, swaps: 23158 comp: 37445
+DPQuicksort | time: 0,48ms, swaps: 14053 comp: 40101
+
+n: 3100
+Insert | time: 6,33ms, swaps: 2387325 comp: 2387325
+Merge | time: 1,02ms, swaps: 72408 comp: 102801
+Quicksort | time: 0,44ms, swaps: 22401 comp: 40404
+DPQuicksort | time: 0,51ms, swaps: 13738 comp: 41637
+
+n: 3200
+Insert | time: 6,07ms, swaps: 2597651 comp: 2597651
+Merge | time: 1,03ms, swaps: 75008 comp: 106546
+Quicksort | time: 0,46ms, swaps: 23797 comp: 42201
+DPQuicksort | time: 0,51ms, swaps: 13149 comp: 39429
+
+n: 3300
+Insert | time: 5,42ms, swaps: 2708691 comp: 2708691
+Merge | time: 1,08ms, swaps: 77608 comp: 110310
+Quicksort | time: 0,5ms, swaps: 28650 comp: 45802
+DPQuicksort | time: 0,52ms, swaps: 17181 comp: 46526
+
+n: 3400
+Insert | time: 4,87ms, swaps: 2928403 comp: 2928403
+Merge | time: 1,16ms, swaps: 80208 comp: 113934
+Quicksort | time: 0,36ms, swaps: 23732 comp: 44183
+DPQuicksort | time: 0,54ms, swaps: 15918 comp: 47300
+
+n: 3500
+Insert | time: 6,69ms, swaps: 3027743 comp: 3027743
+Merge | time: 1,07ms, swaps: 82808 comp: 117732
+Quicksort | time: 0,48ms, swaps: 24749 comp: 51945
+DPQuicksort | time: 0,57ms, swaps: 15028 comp: 46179
+
+n: 3600
+Insert | time: 5,96ms, swaps: 3246563 comp: 3246563
+Merge | time: 1,19ms, swaps: 85408 comp: 121383
+Quicksort | time: 0,51ms, swaps: 26596 comp: 46383
+DPQuicksort | time: 0,56ms, swaps: 18647 comp: 50167
+
+n: 3700
+Insert | time: 6,5ms, swaps: 3437602 comp: 3437602
+Merge | time: 0,8ms, swaps: 88008 comp: 125094
+Quicksort | time: 0,39ms, swaps: 30599 comp: 53595
+DPQuicksort | time: 1,76ms, swaps: 18616 comp: 52964
+
+n: 3800
+Insert | time: 7,46ms, swaps: 3547396 comp: 3547396
+Merge | time: 0,81ms, swaps: 90608 comp: 128716
+Quicksort | time: 0,59ms, swaps: 28029 comp: 50344
+DPQuicksort | time: 0,62ms, swaps: 17128 comp: 51356
+
+n: 3900
+Insert | time: 11,03ms, swaps: 3821608 comp: 3821608
+Merge | time: 1,04ms, swaps: 93208 comp: 132547
+Quicksort | time: 1,03ms, swaps: 27380 comp: 50774
+DPQuicksort | time: 1,61ms, swaps: 19010 comp: 55043
+
+n: 4000
+Insert | time: 17,96ms, swaps: 3998039 comp: 3998039
+Merge | time: 1,18ms, swaps: 95808 comp: 136159
+Quicksort | time: 0,6ms, swaps: 33179 comp: 53549
+DPQuicksort | time: 0,66ms, swaps: 20941 comp: 60941
+
+n: 4100
+Insert | time: 9,78ms, swaps: 4243185 comp: 4243185
+Merge | time: 1,35ms, swaps: 98416 comp: 139823
+Quicksort | time: 0,58ms, swaps: 29592 comp: 54601
+DPQuicksort | time: 0,58ms, swaps: 19744 comp: 56099
+
+n: 4200
+Insert | time: 7,92ms, swaps: 4415751 comp: 4415751
+Merge | time: 0,95ms, swaps: 101216 comp: 143933
+Quicksort | time: 0,43ms, swaps: 28942 comp: 56639
+DPQuicksort | time: 0,53ms, swaps: 19894 comp: 55906
+
+n: 4300
+Insert | time: 9,77ms, swaps: 4601983 comp: 4601983
+Merge | time: 1,35ms, swaps: 104016 comp: 148067
+Quicksort | time: 0,64ms, swaps: 35582 comp: 59613
+DPQuicksort | time: 0,7ms, swaps: 21420 comp: 60693
+
+n: 4400
+Insert | time: 11,25ms, swaps: 4863255 comp: 4863255
+Merge | time: 0,96ms, swaps: 106816 comp: 151948
+Quicksort | time: 0,47ms, swaps: 32764 comp: 63339
+DPQuicksort | time: 0,47ms, swaps: 20885 comp: 60042
+
+n: 4500
+Insert | time: 11,04ms, swaps: 5105868 comp: 5105868
+Merge | time: 2,32ms, swaps: 109616 comp: 155970
+Quicksort | time: 0,67ms, swaps: 32259 comp: 58448
+DPQuicksort | time: 0,78ms, swaps: 26412 comp: 75417
+
+n: 4600
+Insert | time: 19,52ms, swaps: 5425077 comp: 5425077
+Merge | time: 1,46ms, swaps: 112416 comp: 160007
+Quicksort | time: 0,76ms, swaps: 37918 comp: 69676
+DPQuicksort | time: 0,75ms, swaps: 25188 comp: 71572
+
+n: 4700
+Insert | time: 11,65ms, swaps: 5577109 comp: 5577109
+Merge | time: 1,93ms, swaps: 115216 comp: 164098
+Quicksort | time: 0,75ms, swaps: 40567 comp: 68871
+DPQuicksort | time: 0,84ms, swaps: 23536 comp: 69961
+
+n: 4800
+Insert | time: 15,66ms, swaps: 5743325 comp: 5743325
+Merge | time: 1,04ms, swaps: 118016 comp: 168087
+Quicksort | time: 0,52ms, swaps: 40463 comp: 67904
+DPQuicksort | time: 0,85ms, swaps: 21592 comp: 67963
+
+n: 4900
+Insert | time: 10,68ms, swaps: 6075559 comp: 6075559
+Merge | time: 1,66ms, swaps: 120816 comp: 172185
+Quicksort | time: 0,84ms, swaps: 36694 comp: 69500
+DPQuicksort | time: 0,8ms, swaps: 22716 comp: 64477
+
+n: 5000
+Insert | time: 11,46ms, swaps: 6292976 comp: 6292976
+Merge | time: 1,16ms, swaps: 123616 comp: 176211
+Quicksort | time: 0,76ms, swaps: 38568 comp: 67972
+DPQuicksort | time: 0,9ms, swaps: 25385 comp: 73534
+
+n: 5100
+Insert | time: 14,95ms, swaps: 6467779 comp: 6467779
+Merge | time: 1,15ms, swaps: 126416 comp: 180152
+Quicksort | time: 0,54ms, swaps: 36261 comp: 69613
+DPQuicksort | time: 0,59ms, swaps: 24905 comp: 73917
+
+n: 5200
+Insert | time: 10,53ms, swaps: 6766485 comp: 6766485
+Merge | time: 1,18ms, swaps: 129216 comp: 184111
+Quicksort | time: 0,7ms, swaps: 40269 comp: 74606
+DPQuicksort | time: 0,57ms, swaps: 24156 comp: 71293
+
+n: 5300
+Insert | time: 12,77ms, swaps: 6956857 comp: 6956857
+Merge | time: 1,78ms, swaps: 132016 comp: 188293
+Quicksort | time: 0,85ms, swaps: 43976 comp: 77960
+DPQuicksort | time: 0,7ms, swaps: 24371 comp: 73890
+
+n: 5400
+Insert | time: 12,92ms, swaps: 7297855 comp: 7297855
+Merge | time: 1,3ms, swaps: 134816 comp: 192139
+Quicksort | time: 0,58ms, swaps: 42310 comp: 81420
+DPQuicksort | time: 0,63ms, swaps: 25968 comp: 78159
+
+n: 5500
+Insert | time: 11,46ms, swaps: 7667599 comp: 7667599
+Merge | time: 1,75ms, swaps: 137616 comp: 196339
+Quicksort | time: 0,82ms, swaps: 46060 comp: 75904
+DPQuicksort | time: 0,91ms, swaps: 27388 comp: 79647
+
+n: 5600
+Insert | time: 16,88ms, swaps: 7867013 comp: 7867013
+Merge | time: 1,53ms, swaps: 140416 comp: 200132
+Quicksort | time: 0,84ms, swaps: 43857 comp: 75984
+DPQuicksort | time: 0,64ms, swaps: 25110 comp: 79170
+
+n: 5700
+Insert | time: 15,84ms, swaps: 8191104 comp: 8191104
+Merge | time: 1,65ms, swaps: 143216 comp: 204141
+Quicksort | time: 0,71ms, swaps: 43603 comp: 78428
+DPQuicksort | time: 1,21ms, swaps: 28733 comp: 80527
+
+n: 5800
+Insert | time: 13,14ms, swaps: 8386300 comp: 8386300
+Merge | time: 1,27ms, swaps: 146016 comp: 208262
+Quicksort | time: 0,62ms, swaps: 44255 comp: 80580
+DPQuicksort | time: 0,67ms, swaps: 29581 comp: 85892
+
+n: 5900
+Insert | time: 16,61ms, swaps: 8780747 comp: 8780747
+Merge | time: 2,01ms, swaps: 148816 comp: 212279
+Quicksort | time: 0,9ms, swaps: 52061 comp: 85450
+DPQuicksort | time: 1,0ms, swaps: 28624 comp: 86168
+
+n: 6000
+Insert | time: 20,79ms, swaps: 9054246 comp: 9054246
+Merge | time: 2,08ms, swaps: 151616 comp: 216127
+Quicksort | time: 1,01ms, swaps: 54541 comp: 88060
+DPQuicksort | time: 1,08ms, swaps: 33961 comp: 94787
+
+n: 6100
+Insert | time: 22,47ms, swaps: 9342979 comp: 9342979
+Merge | time: 1,97ms, swaps: 154416 comp: 220014
+Quicksort | time: 0,89ms, swaps: 45057 comp: 87819
+DPQuicksort | time: 1,11ms, swaps: 31789 comp: 92592
+
+n: 6200
+Insert | time: 18,74ms, swaps: 9549387 comp: 9549387
+Merge | time: 2,04ms, swaps: 157216 comp: 224138
+Quicksort | time: 0,97ms, swaps: 55508 comp: 94859
+DPQuicksort | time: 0,8ms, swaps: 35288 comp: 102263
+
+n: 6300
+Insert | time: 29,63ms, swaps: 9906171 comp: 9906171
+Merge | time: 2,06ms, swaps: 160016 comp: 228271
+Quicksort | time: 0,93ms, swaps: 49130 comp: 87481
+DPQuicksort | time: 1,07ms, swaps: 31216 comp: 88299
+
+n: 6400
+Insert | time: 16,38ms, swaps: 10229651 comp: 10229651
+Merge | time: 1,8ms, swaps: 162816 comp: 232092
+Quicksort | time: 0,81ms, swaps: 53294 comp: 96334
+DPQuicksort | time: 1,15ms, swaps: 31324 comp: 94251
+
+n: 6500
+Insert | time: 26,04ms, swaps: 10480791 comp: 10480791
+Merge | time: 2,24ms, swaps: 165616 comp: 236339
+Quicksort | time: 1,23ms, swaps: 47922 comp: 90785
+DPQuicksort | time: 1,14ms, swaps: 30747 comp: 88655
+
+n: 6600
+Insert | time: 31,23ms, swaps: 11069317 comp: 11069317
+Merge | time: 2,17ms, swaps: 168416 comp: 240301
+Quicksort | time: 1,01ms, swaps: 53643 comp: 97941
+DPQuicksort | time: 1,26ms, swaps: 32265 comp: 94216
+
+n: 6700
+Insert | time: 26,68ms, swaps: 11220645 comp: 11220645
+Merge | time: 2,28ms, swaps: 171216 comp: 244351
+Quicksort | time: 0,8ms, swaps: 53663 comp: 101370
+DPQuicksort | time: 0,79ms, swaps: 32767 comp: 96960
+
+n: 6800
+Insert | time: 25,46ms, swaps: 11531933 comp: 11531933
+Merge | time: 1,66ms, swaps: 174016 comp: 248326
+Quicksort | time: 0,9ms, swaps: 59830 comp: 104154
+DPQuicksort | time: 0,87ms, swaps: 32381 comp: 99226
+
+n: 6900
+Insert | time: 23,8ms, swaps: 11771877 comp: 11771877
+Merge | time: 2,45ms, swaps: 176816 comp: 252338
+Quicksort | time: 1,06ms, swaps: 54311 comp: 97694
+DPQuicksort | time: 1,23ms, swaps: 37069 comp: 108092
+
+n: 7000
+Insert | time: 23,57ms, swaps: 12380473 comp: 12380473
+Merge | time: 2,57ms, swaps: 179616 comp: 256308
+Quicksort | time: 1,04ms, swaps: 55459 comp: 103603
+DPQuicksort | time: 0,93ms, swaps: 36490 comp: 103193
+
+n: 7100
+Insert | time: 27,7ms, swaps: 12507135 comp: 12507135
+Merge | time: 2,49ms, swaps: 182416 comp: 260378
+Quicksort | time: 1,09ms, swaps: 64969 comp: 114420
+DPQuicksort | time: 1,21ms, swaps: 35718 comp: 103560
+
+n: 7200
+Insert | time: 23,69ms, swaps: 13055658 comp: 13055658
+Merge | time: 3,98ms, swaps: 185216 comp: 264314
+Quicksort | time: 1,15ms, swaps: 58644 comp: 108227
+DPQuicksort | time: 1,09ms, swaps: 38176 comp: 104986
+
+n: 7300
+Insert | time: 25,87ms, swaps: 13308826 comp: 13308826
+Merge | time: 1,64ms, swaps: 188016 comp: 268442
+Quicksort | time: 1,18ms, swaps: 62203 comp: 110126
+DPQuicksort | time: 1,37ms, swaps: 43884 comp: 133739
+
+n: 7400
+Insert | time: 37,29ms, swaps: 13726973 comp: 13726973
+Merge | time: 1,76ms, swaps: 190816 comp: 272231
+Quicksort | time: 1,0ms, swaps: 68371 comp: 111443
+DPQuicksort | time: 1,15ms, swaps: 37183 comp: 109652
+
+n: 7500
+Insert | time: 38,5ms, swaps: 14174450 comp: 14174450
+Merge | time: 3,03ms, swaps: 193616 comp: 276550
+Quicksort | time: 1,1ms, swaps: 59532 comp: 112687
+DPQuicksort | time: 15,07ms, swaps: 36743 comp: 109597
+
+n: 7600
+Insert | time: 51,66ms, swaps: 14580984 comp: 14580984
+Merge | time: 2,18ms, swaps: 196416 comp: 280370
+Quicksort | time: 2,52ms, swaps: 68964 comp: 123676
+DPQuicksort | time: 1,17ms, swaps: 34415 comp: 107085
+
+n: 7700
+Insert | time: 35,56ms, swaps: 14778854 comp: 14778854
+Merge | time: 2,95ms, swaps: 199216 comp: 284374
+Quicksort | time: 2,08ms, swaps: 68172 comp: 114917
+DPQuicksort | time: 1,0ms, swaps: 38186 comp: 109880
+
+n: 7800
+Insert | time: 27,6ms, swaps: 14981181 comp: 14981181
+Merge | time: 2,26ms, swaps: 202016 comp: 288293
+Quicksort | time: 1,21ms, swaps: 65062 comp: 119994
+DPQuicksort | time: 1,31ms, swaps: 36074 comp: 117882
+
+n: 7900
+Insert | time: 36,03ms, swaps: 15596614 comp: 15596614
+Merge | time: 1,48ms, swaps: 204816 comp: 292542
+Quicksort | time: 0,89ms, swaps: 64593 comp: 125356
+DPQuicksort | time: 1,01ms, swaps: 45105 comp: 134317
+
+n: 8000
+Insert | time: 36,14ms, swaps: 16156640 comp: 16156640
+Merge | time: 2,33ms, swaps: 207616 comp: 296219
+Quicksort | time: 0,91ms, swaps: 75381 comp: 128064
+DPQuicksort | time: 0,9ms, swaps: 37291 comp: 116961
+
+n: 8100
+Insert | time: 35,48ms, swaps: 16546436 comp: 16546436
+Merge | time: 1,52ms, swaps: 210416 comp: 300348
+Quicksort | time: 1,25ms, swaps: 75013 comp: 123998
+DPQuicksort | time: 1,34ms, swaps: 44462 comp: 123012
+
+n: 8200
+Insert | time: 52,12ms, swaps: 16842865 comp: 16842865
+Merge | time: 2,3ms, swaps: 213232 comp: 304381
+Quicksort | time: 1,29ms, swaps: 69614 comp: 137627
+DPQuicksort | time: 1,37ms, swaps: 38537 comp: 122630
+
+n: 8300
+Insert | time: 36,27ms, swaps: 17037558 comp: 17037558
+Merge | time: 2,34ms, swaps: 216232 comp: 308619
+Quicksort | time: 1,21ms, swaps: 75174 comp: 123733
+DPQuicksort | time: 1,09ms, swaps: 42831 comp: 122456
+
+n: 8400
+Insert | time: 34,86ms, swaps: 17611618 comp: 17611618
+Merge | time: 1,56ms, swaps: 219232 comp: 313175
+Quicksort | time: 1,05ms, swaps: 79770 comp: 136115
+DPQuicksort | time: 0,97ms, swaps: 42084 comp: 126813
+
+n: 8500
+Insert | time: 38,77ms, swaps: 18284688 comp: 18284688
+Merge | time: 2,14ms, swaps: 222232 comp: 317414
+Quicksort | time: 0,98ms, swaps: 75217 comp: 127658
+DPQuicksort | time: 1,0ms, swaps: 47033 comp: 142246
+
+n: 8600
+Insert | time: 32,8ms, swaps: 18412931 comp: 18412931
+Merge | time: 2,55ms, swaps: 225232 comp: 321694
+Quicksort | time: 1,71ms, swaps: 75700 comp: 127437
+DPQuicksort | time: 1,17ms, swaps: 45728 comp: 127608
+
+n: 8700
+Insert | time: 31,57ms, swaps: 18987276 comp: 18987276
+Merge | time: 1,68ms, swaps: 228232 comp: 326050
+Quicksort | time: 0,96ms, swaps: 70710 comp: 130711
+DPQuicksort | time: 1,1ms, swaps: 41797 comp: 123263
+
+n: 8800
+Insert | time: 40,99ms, swaps: 19625800 comp: 19625800
+Merge | time: 4,07ms, swaps: 231232 comp: 330484
+Quicksort | time: 1,4ms, swaps: 79353 comp: 133427
+DPQuicksort | time: 1,52ms, swaps: 50628 comp: 141162
+
+n: 8900
+Insert | time: 38,71ms, swaps: 19748943 comp: 19748943
+Merge | time: 2,52ms, swaps: 234232 comp: 334677
+Quicksort | time: 1,42ms, swaps: 72972 comp: 144311
+DPQuicksort | time: 1,53ms, swaps: 48057 comp: 136358
+
+n: 9000
+Insert | time: 50,57ms, swaps: 20216550 comp: 20216550
+Merge | time: 1,7ms, swaps: 237232 comp: 339146
+Quicksort | time: 1,2ms, swaps: 72902 comp: 127313
+DPQuicksort | time: 1,08ms, swaps: 49368 comp: 141392
+
+n: 9100
+Insert | time: 34,85ms, swaps: 20772496 comp: 20772496
+Merge | time: 1,71ms, swaps: 240232 comp: 343417
+Quicksort | time: 1,02ms, swaps: 78231 comp: 135831
+DPQuicksort | time: 1,06ms, swaps: 49168 comp: 146307
+
+n: 9200
+Insert | time: 30,76ms, swaps: 21182946 comp: 21182946
+Merge | time: 1,73ms, swaps: 243232 comp: 347630
+Quicksort | time: 1,02ms, swaps: 77864 comp: 138679
+DPQuicksort | time: 1,04ms, swaps: 48357 comp: 141377
+
+n: 9300
+Insert | time: 31,42ms, swaps: 21724815 comp: 21724815
+Merge | time: 1,77ms, swaps: 246232 comp: 351872
+Quicksort | time: 1,07ms, swaps: 84930 comp: 147156
+DPQuicksort | time: 1,09ms, swaps: 55029 comp: 162761
+
+n: 9400
+Insert | time: 31,09ms, swaps: 21835878 comp: 21835878
+Merge | time: 1,75ms, swaps: 249232 comp: 356366
+Quicksort | time: 1,06ms, swaps: 79817 comp: 136245
+DPQuicksort | time: 1,08ms, swaps: 53660 comp: 150759
+
+n: 9500
+Insert | time: 33,57ms, swaps: 22566864 comp: 22566864
+Merge | time: 1,78ms, swaps: 252232 comp: 360599
+Quicksort | time: 1,18ms, swaps: 80723 comp: 156956
+DPQuicksort | time: 1,05ms, swaps: 47624 comp: 141500
+
+n: 9600
+Insert | time: 58,95ms, swaps: 22938727 comp: 22938727
+Merge | time: 4,02ms, swaps: 255232 comp: 365058
+Quicksort | time: 2,36ms, swaps: 76987 comp: 139030
+DPQuicksort | time: 2,45ms, swaps: 50357 comp: 150173
+
+n: 9700
+Insert | time: 72,33ms, swaps: 23591903 comp: 23591903
+Merge | time: 2,35ms, swaps: 258232 comp: 369247
+Quicksort | time: 1,41ms, swaps: 77779 comp: 148268
+DPQuicksort | time: 1,39ms, swaps: 47756 comp: 141932
+
+n: 9800
+Insert | time: 52,52ms, swaps: 24208157 comp: 24208157
+Merge | time: 2,56ms, swaps: 261232 comp: 373640
+Quicksort | time: 1,14ms, swaps: 93365 comp: 163090
+DPQuicksort | time: 1,16ms, swaps: 58447 comp: 172053
+
+n: 9900
+Insert | time: 35,34ms, swaps: 24698677 comp: 24698677
+Merge | time: 1,86ms, swaps: 264232 comp: 377839
+Quicksort | time: 1,2ms, swaps: 91014 comp: 149006
+DPQuicksort | time: 1,14ms, swaps: 51541 comp: 150765
+
+n: 10000
+Insert | time: 37,76ms, swaps: 25284926 comp: 25284926
+Merge | time: 1,94ms, swaps: 267232 comp: 382242
+Quicksort | time: 1,21ms, swaps: 87852 comp: 157386
+DPQuicksort | time: 1,14ms, swaps: 53919 comp: 163118
+

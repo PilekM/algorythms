@@ -1,0 +1,600 @@
+n: 100
+Insert | time: 0,22 swaps: 2253 comp: 2154
+Merge | time: 0,3 swaps: 1344 comp: 1839
+Quicksort | time: 0,1 swaps: 443 comp: 650
+DPQuicksort | time: 0,11 swaps: 332 comp: 856
+
+n: 200
+Insert | time: 1,13 swaps: 10946 comp: 10747
+Merge | time: 0,53 swaps: 3088 comp: 4255
+Quicksort | time: 0,17 swaps: 739 comp: 1570
+DPQuicksort | time: 0,13 swaps: 616 comp: 1552
+
+n: 300
+Insert | time: 2,08 swaps: 21871 comp: 21572
+Merge | time: 0,14 swaps: 4976 comp: 6924
+Quicksort | time: 0,29 swaps: 1454 comp: 2566
+DPQuicksort | time: 0,25 swaps: 867 comp: 2484
+
+n: 400
+Insert | time: 2,7 swaps: 41289 comp: 40890
+Merge | time: 0,16 swaps: 6976 comp: 9693
+Quicksort | time: 0,15 swaps: 2224 comp: 3448
+DPQuicksort | time: 0,07 swaps: 1284 comp: 3626
+
+n: 500
+Insert | time: 0,74 swaps: 63671 comp: 63172
+Merge | time: 1,57 swaps: 8976 comp: 12509
+Quicksort | time: 0,1 swaps: 2502 comp: 4605
+DPQuicksort | time: 0,68 swaps: 1865 comp: 5163
+
+n: 600
+Insert | time: 0,99 swaps: 90684 comp: 90085
+Merge | time: 0,25 swaps: 11152 comp: 15612
+Quicksort | time: 0,14 swaps: 3212 comp: 5983
+DPQuicksort | time: 0,16 swaps: 1883 comp: 5640
+
+n: 700
+Insert | time: 1,31 swaps: 123488 comp: 122789
+Merge | time: 1,18 swaps: 13352 comp: 18648
+Quicksort | time: 0,16 swaps: 4707 comp: 7337
+DPQuicksort | time: 0,14 swaps: 3140 comp: 8445
+
+n: 800
+Insert | time: 0,56 swaps: 155965 comp: 155166
+Merge | time: 0,36 swaps: 15552 comp: 21835
+Quicksort | time: 0,17 swaps: 4951 comp: 8501
+DPQuicksort | time: 0,16 swaps: 3313 comp: 9950
+
+n: 900
+Insert | time: 0,67 swaps: 201648 comp: 200749
+Merge | time: 0,39 swaps: 17752 comp: 24947
+Quicksort | time: 0,11 swaps: 5777 comp: 11191
+DPQuicksort | time: 0,34 swaps: 3286 comp: 9399
+
+n: 1000
+Insert | time: 0,75 swaps: 258648 comp: 257649
+Merge | time: 0,42 swaps: 19952 comp: 28014
+Quicksort | time: 0,1 swaps: 6397 comp: 10769
+DPQuicksort | time: 0,18 swaps: 4662 comp: 12595
+
+n: 1100
+Insert | time: 0,87 swaps: 297328 comp: 296229
+Merge | time: 0,52 swaps: 22304 comp: 31370
+Quicksort | time: 0,13 swaps: 7845 comp: 12860
+DPQuicksort | time: 0,21 swaps: 4078 comp: 11312
+
+n: 1200
+Insert | time: 0,96 swaps: 356182 comp: 354983
+Merge | time: 0,62 swaps: 24704 comp: 34839
+Quicksort | time: 0,12 swaps: 7530 comp: 13869
+DPQuicksort | time: 0,24 swaps: 5300 comp: 15722
+
+n: 1300
+Insert | time: 0,92 swaps: 413639 comp: 412340
+Merge | time: 0,4 swaps: 27104 comp: 38229
+Quicksort | time: 0,16 swaps: 7364 comp: 13979
+DPQuicksort | time: 0,5 swaps: 5301 comp: 14998
+
+n: 1400
+Insert | time: 6,28 swaps: 479111 comp: 477712
+Merge | time: 0,42 swaps: 29504 comp: 41576
+Quicksort | time: 0,18 swaps: 8984 comp: 16029
+DPQuicksort | time: 0,2 swaps: 5607 comp: 15474
+
+n: 1500
+Insert | time: 2,49 swaps: 590181 comp: 588682
+Merge | time: 0,43 swaps: 31904 comp: 45022
+Quicksort | time: 0,18 swaps: 8883 comp: 19500
+DPQuicksort | time: 0,21 swaps: 5921 comp: 18246
+
+n: 1600
+Insert | time: 1,1 swaps: 626194 comp: 624595
+Merge | time: 0,62 swaps: 34304 comp: 48476
+Quicksort | time: 0,18 swaps: 10308 comp: 18788
+DPQuicksort | time: 0,23 swaps: 6960 comp: 20455
+
+n: 1700
+Insert | time: 1,42 swaps: 727604 comp: 725905
+Merge | time: 0,44 swaps: 36704 comp: 51915
+Quicksort | time: 0,14 swaps: 11675 comp: 20495
+DPQuicksort | time: 0,23 swaps: 7351 comp: 21785
+
+n: 1800
+Insert | time: 1,65 swaps: 805244 comp: 803445
+Merge | time: 0,42 swaps: 39104 comp: 55299
+Quicksort | time: 0,15 swaps: 11644 comp: 20509
+DPQuicksort | time: 0,18 swaps: 8284 comp: 22556
+
+n: 1900
+Insert | time: 1,12 swaps: 887080 comp: 885181
+Merge | time: 0,34 swaps: 41504 comp: 58680
+Quicksort | time: 0,16 swaps: 14106 comp: 22839
+DPQuicksort | time: 0,18 swaps: 7484 comp: 22762
+
+n: 2000
+Insert | time: 1,36 swaps: 982979 comp: 980980
+Merge | time: 0,36 swaps: 43904 comp: 62149
+Quicksort | time: 0,17 swaps: 14721 comp: 25456
+DPQuicksort | time: 0,19 swaps: 9290 comp: 26965
+
+n: 2100
+Insert | time: 1,79 swaps: 1118422 comp: 1116323
+Merge | time: 0,57 swaps: 46408 comp: 65652
+Quicksort | time: 0,25 swaps: 13508 comp: 24377
+DPQuicksort | time: 0,29 swaps: 8426 comp: 25483
+
+n: 2200
+Insert | time: 2,45 swaps: 1227757 comp: 1225558
+Merge | time: 0,4 swaps: 49008 comp: 69373
+Quicksort | time: 0,19 swaps: 15654 comp: 26710
+DPQuicksort | time: 0,34 swaps: 9720 comp: 26949
+
+n: 2300
+Insert | time: 2,74 swaps: 1353312 comp: 1351013
+Merge | time: 0,44 swaps: 51608 comp: 73180
+Quicksort | time: 0,2 swaps: 16402 comp: 30081
+DPQuicksort | time: 0,22 swaps: 9668 comp: 29709
+
+n: 2400
+Insert | time: 2,09 swaps: 1440519 comp: 1438120
+Merge | time: 0,78 swaps: 54208 comp: 76853
+Quicksort | time: 0,27 swaps: 16554 comp: 29754
+DPQuicksort | time: 0,36 swaps: 11255 comp: 30478
+
+n: 2500
+Insert | time: 3,21 swaps: 1548704 comp: 1546205
+Merge | time: 0,53 swaps: 56808 comp: 80599
+Quicksort | time: 0,29 swaps: 14210 comp: 31432
+DPQuicksort | time: 0,33 swaps: 11103 comp: 31458
+
+n: 2600
+Insert | time: 3,57 swaps: 1701040 comp: 1698441
+Merge | time: 0,71 swaps: 59408 comp: 84303
+Quicksort | time: 0,31 swaps: 17731 comp: 33211
+DPQuicksort | time: 0,35 swaps: 11508 comp: 33637
+
+n: 2700
+Insert | time: 3,97 swaps: 1855350 comp: 1852651
+Merge | time: 0,96 swaps: 62008 comp: 88039
+Quicksort | time: 1,25 swaps: 23574 comp: 38778
+DPQuicksort | time: 0,41 swaps: 11972 comp: 35119
+
+n: 2800
+Insert | time: 4,05 swaps: 1946463 comp: 1943664
+Merge | time: 0,84 swaps: 64608 comp: 91663
+Quicksort | time: 0,67 swaps: 23794 comp: 40228
+DPQuicksort | time: 0,4 swaps: 14382 comp: 41264
+
+n: 2900
+Insert | time: 5,54 swaps: 2149263 comp: 2146364
+Merge | time: 0,81 swaps: 67208 comp: 95421
+Quicksort | time: 0,37 swaps: 23250 comp: 40894
+DPQuicksort | time: 0,4 swaps: 12432 comp: 36156
+
+n: 3000
+Insert | time: 3,85 swaps: 2233545 comp: 2230546
+Merge | time: 0,82 swaps: 69808 comp: 99034
+Quicksort | time: 0,38 swaps: 22817 comp: 38343
+DPQuicksort | time: 0,43 swaps: 15317 comp: 43223
+
+n: 3100
+Insert | time: 3,12 swaps: 2408150 comp: 2405051
+Merge | time: 0,79 swaps: 72408 comp: 102819
+Quicksort | time: 0,37 swaps: 22416 comp: 42069
+DPQuicksort | time: 0,39 swaps: 12872 comp: 39719
+
+n: 3200
+Insert | time: 4,94 swaps: 2562900 comp: 2559701
+Merge | time: 0,75 swaps: 75008 comp: 106447
+Quicksort | time: 0,29 swaps: 26171 comp: 44769
+DPQuicksort | time: 0,33 swaps: 17817 comp: 51447
+
+n: 3300
+Insert | time: 4,66 swaps: 2741924 comp: 2738625
+Merge | time: 0,89 swaps: 77608 comp: 110338
+Quicksort | time: 0,47 swaps: 20503 comp: 44031
+DPQuicksort | time: 0,5 swaps: 13662 comp: 40586
+
+n: 3400
+Insert | time: 5,75 swaps: 2897245 comp: 2893846
+Merge | time: 0,97 swaps: 80208 comp: 113996
+Quicksort | time: 0,44 swaps: 23445 comp: 47373
+DPQuicksort | time: 0,47 swaps: 15908 comp: 46254
+
+n: 3500
+Insert | time: 6,22 swaps: 3088382 comp: 3084883
+Merge | time: 0,66 swaps: 82808 comp: 117695
+Quicksort | time: 0,31 swaps: 24999 comp: 48620
+DPQuicksort | time: 0,36 swaps: 15457 comp: 44716
+
+n: 3600
+Insert | time: 5,25 swaps: 3239402 comp: 3235803
+Merge | time: 0,74 swaps: 85408 comp: 121465
+Quicksort | time: 0,32 swaps: 26277 comp: 46700
+DPQuicksort | time: 0,53 swaps: 17037 comp: 49061
+
+n: 3700
+Insert | time: 17,44 swaps: 3370038 comp: 3366339
+Merge | time: 1,07 swaps: 88008 comp: 125163
+Quicksort | time: 0,53 swaps: 30231 comp: 52683
+DPQuicksort | time: 0,65 swaps: 16230 comp: 48144
+
+n: 3800
+Insert | time: 10,27 swaps: 3665374 comp: 3661575
+Merge | time: 1,27 swaps: 90608 comp: 128749
+Quicksort | time: 0,51 swaps: 27569 comp: 49482
+DPQuicksort | time: 0,56 swaps: 16596 comp: 49098
+
+n: 3900
+Insert | time: 7,32 swaps: 3809870 comp: 3805971
+Merge | time: 1,12 swaps: 93208 comp: 132398
+Quicksort | time: 0,5 swaps: 29009 comp: 49835
+DPQuicksort | time: 0,57 swaps: 20130 comp: 54191
+
+n: 4000
+Insert | time: 10,94 swaps: 4024318 comp: 4020319
+Merge | time: 1,14 swaps: 95808 comp: 136096
+Quicksort | time: 0,52 swaps: 30007 comp: 55780
+DPQuicksort | time: 0,6 swaps: 17758 comp: 55547
+
+n: 4100
+Insert | time: 8,97 swaps: 4276281 comp: 4272182
+Merge | time: 1,32 swaps: 98416 comp: 139869
+Quicksort | time: 0,53 swaps: 31920 comp: 54548
+DPQuicksort | time: 0,59 swaps: 18852 comp: 54400
+
+n: 4200
+Insert | time: 8,27 swaps: 4422711 comp: 4418512
+Merge | time: 0,78 swaps: 101216 comp: 143896
+Quicksort | time: 0,4 swaps: 32857 comp: 57597
+DPQuicksort | time: 0,58 swaps: 22079 comp: 61194
+
+n: 4300
+Insert | time: 7,76 swaps: 4662554 comp: 4658255
+Merge | time: 0,82 swaps: 104016 comp: 147936
+Quicksort | time: 0,39 swaps: 32946 comp: 61474
+DPQuicksort | time: 0,43 swaps: 19541 comp: 56476
+
+n: 4400
+Insert | time: 6,87 swaps: 4860221 comp: 4855822
+Merge | time: 0,85 swaps: 106816 comp: 152089
+Quicksort | time: 0,41 swaps: 31263 comp: 64858
+DPQuicksort | time: 0,53 swaps: 20659 comp: 63807
+
+n: 4500
+Insert | time: 9,86 swaps: 5027175 comp: 5022676
+Merge | time: 0,91 swaps: 109616 comp: 156174
+Quicksort | time: 0,42 swaps: 36092 comp: 63592
+DPQuicksort | time: 0,46 swaps: 20564 comp: 60285
+
+n: 4600
+Insert | time: 8,93 swaps: 5252567 comp: 5247968
+Merge | time: 1,48 swaps: 112416 comp: 160068
+Quicksort | time: 0,51 swaps: 34763 comp: 61553
+DPQuicksort | time: 0,66 swaps: 20712 comp: 64055
+
+n: 4700
+Insert | time: 10,39 swaps: 5489145 comp: 5484446
+Merge | time: 1,38 swaps: 115216 comp: 163979
+Quicksort | time: 0,61 swaps: 37599 comp: 64749
+DPQuicksort | time: 0,57 swaps: 24389 comp: 69458
+
+n: 4800
+Insert | time: 9,48 swaps: 5776264 comp: 5771465
+Merge | time: 0,95 swaps: 118016 comp: 168049
+Quicksort | time: 0,45 swaps: 34371 comp: 69311
+DPQuicksort | time: 0,89 swaps: 21694 comp: 67227
+
+n: 4900
+Insert | time: 10,76 swaps: 6003028 comp: 5998129
+Merge | time: 1,32 swaps: 120816 comp: 172071
+Quicksort | time: 0,6 swaps: 38036 comp: 67906
+DPQuicksort | time: 0,66 swaps: 25687 comp: 71538
+
+n: 5000
+Insert | time: 11,88 swaps: 6248400 comp: 6243401
+Merge | time: 0,98 swaps: 123616 comp: 176243
+Quicksort | time: 0,47 swaps: 39780 comp: 68730
+DPQuicksort | time: 0,58 swaps: 24413 comp: 71594
+
+n: 5100
+Insert | time: 10,67 swaps: 6493473 comp: 6488374
+Merge | time: 1,54 swaps: 126416 comp: 180120
+Quicksort | time: 0,6 swaps: 38265 comp: 74424
+DPQuicksort | time: 0,52 swaps: 23343 comp: 69229
+
+n: 5200
+Insert | time: 11,17 swaps: 6911768 comp: 6906569
+Merge | time: 1,03 swaps: 129216 comp: 184278
+Quicksort | time: 0,57 swaps: 42518 comp: 76651
+DPQuicksort | time: 0,78 swaps: 28144 comp: 78198
+
+n: 5300
+Insert | time: 15,67 swaps: 7041923 comp: 7036624
+Merge | time: 1,02 swaps: 132016 comp: 188317
+Quicksort | time: 0,68 swaps: 40419 comp: 72018
+DPQuicksort | time: 0,77 swaps: 27312 comp: 79990
+
+n: 5400
+Insert | time: 14,55 swaps: 7186601 comp: 7181202
+Merge | time: 1,56 swaps: 134816 comp: 192118
+Quicksort | time: 0,71 swaps: 43068 comp: 75132
+DPQuicksort | time: 0,81 swaps: 25372 comp: 76295
+
+n: 5500
+Insert | time: 13,55 swaps: 7606497 comp: 7600998
+Merge | time: 1,06 swaps: 137616 comp: 196175
+Quicksort | time: 0,57 swaps: 41599 comp: 75369
+DPQuicksort | time: 0,62 swaps: 27856 comp: 82455
+
+n: 5600
+Insert | time: 14,11 swaps: 7846001 comp: 7840402
+Merge | time: 1,59 swaps: 140416 comp: 200126
+Quicksort | time: 0,77 swaps: 52291 comp: 87479
+DPQuicksort | time: 0,85 swaps: 27537 comp: 81517
+
+n: 5700
+Insert | time: 13,05 swaps: 8074378 comp: 8068679
+Merge | time: 1,17 swaps: 143216 comp: 204164
+Quicksort | time: 0,53 swaps: 43640 comp: 77104
+DPQuicksort | time: 0,71 swaps: 29847 comp: 85634
+
+n: 5800
+Insert | time: 13,52 swaps: 8348047 comp: 8342248
+Merge | time: 3,73 swaps: 146016 comp: 208263
+Quicksort | time: 2,49 swaps: 47299 comp: 79478
+DPQuicksort | time: 2,42 swaps: 28356 comp: 82335
+
+n: 5900
+Insert | time: 16,42 swaps: 8718173 comp: 8712274
+Merge | time: 1,14 swaps: 148816 comp: 212288
+Quicksort | time: 0,57 swaps: 46400 comp: 81916
+DPQuicksort | time: 0,59 swaps: 30335 comp: 85638
+
+n: 6000
+Insert | time: 13,46 swaps: 9123593 comp: 9117594
+Merge | time: 2,01 swaps: 151616 comp: 216157
+Quicksort | time: 0,79 swaps: 44438 comp: 88951
+DPQuicksort | time: 1,23 swaps: 30570 comp: 87486
+
+n: 6100
+Insert | time: 27,25 swaps: 9385976 comp: 9379877
+Merge | time: 2,53 swaps: 154416 comp: 220049
+Quicksort | time: 0,89 swaps: 46396 comp: 88299
+DPQuicksort | time: 0,97 swaps: 30557 comp: 88383
+
+n: 6200
+Insert | time: 16,48 swaps: 9631247 comp: 9625048
+Merge | time: 1,64 swaps: 157216 comp: 224292
+Quicksort | time: 0,58 swaps: 47488 comp: 91078
+DPQuicksort | time: 0,7 swaps: 34568 comp: 99553
+
+n: 6300
+Insert | time: 17,41 swaps: 9778767 comp: 9772468
+Merge | time: 1,94 swaps: 160016 comp: 228198
+Quicksort | time: 0,76 swaps: 50999 comp: 88838
+DPQuicksort | time: 0,66 swaps: 33748 comp: 96055
+
+n: 6400
+Insert | time: 24,41 swaps: 10328409 comp: 10322010
+Merge | time: 1,87 swaps: 162816 comp: 232204
+Quicksort | time: 0,65 swaps: 50746 comp: 93460
+DPQuicksort | time: 0,99 swaps: 33656 comp: 92458
+
+n: 6500
+Insert | time: 16,78 swaps: 10607597 comp: 10601098
+Merge | time: 1,3 swaps: 165616 comp: 236453
+Quicksort | time: 0,62 swaps: 49231 comp: 93534
+DPQuicksort | time: 0,66 swaps: 32855 comp: 93686
+
+n: 6600
+Insert | time: 19,29 swaps: 10823349 comp: 10816750
+Merge | time: 1,92 swaps: 168416 comp: 240307
+Quicksort | time: 0,9 swaps: 58468 comp: 99105
+DPQuicksort | time: 1,03 swaps: 33111 comp: 96375
+
+n: 6700
+Insert | time: 21,01 swaps: 11269169 comp: 11262470
+Merge | time: 1,88 swaps: 171216 comp: 244284
+Quicksort | time: 0,88 swaps: 54456 comp: 94113
+DPQuicksort | time: 1,07 swaps: 37433 comp: 102963
+
+n: 6800
+Insert | time: 20,29 swaps: 11527588 comp: 11520789
+Merge | time: 1,83 swaps: 174016 comp: 248332
+Quicksort | time: 0,89 swaps: 52094 comp: 93801
+DPQuicksort | time: 0,95 swaps: 36249 comp: 106032
+
+n: 6900
+Insert | time: 20,05 swaps: 11941648 comp: 11934749
+Merge | time: 1,65 swaps: 176816 comp: 252312
+Quicksort | time: 0,66 swaps: 52964 comp: 96873
+DPQuicksort | time: 1,04 swaps: 32801 comp: 99462
+
+n: 7000
+Insert | time: 20,63 swaps: 12217929 comp: 12210930
+Merge | time: 4,01 swaps: 179616 comp: 256365
+Quicksort | time: 0,88 swaps: 53826 comp: 106407
+DPQuicksort | time: 1,11 swaps: 34467 comp: 100249
+
+n: 7100
+Insert | time: 31,57 swaps: 12510941 comp: 12503842
+Merge | time: 2,8 swaps: 182416 comp: 260283
+Quicksort | time: 1,6 swaps: 62048 comp: 103007
+DPQuicksort | time: 1,12 swaps: 38473 comp: 106855
+
+n: 7200
+Insert | time: 30,05 swaps: 13020213 comp: 13013014
+Merge | time: 3,79 swaps: 185216 comp: 264341
+Quicksort | time: 0,71 swaps: 62127 comp: 101671
+DPQuicksort | time: 0,74 swaps: 34898 comp: 103631
+
+n: 7300
+Insert | time: 21,59 swaps: 13458248 comp: 13450949
+Merge | time: 1,59 swaps: 188016 comp: 268229
+Quicksort | time: 0,73 swaps: 62636 comp: 101469
+DPQuicksort | time: 0,74 swaps: 36418 comp: 106260
+
+n: 7400
+Insert | time: 23,44 swaps: 13573151 comp: 13565752
+Merge | time: 1,52 swaps: 190816 comp: 272401
+Quicksort | time: 1,0 swaps: 58604 comp: 115556
+DPQuicksort | time: 1,16 swaps: 36739 comp: 107891
+
+n: 7500
+Insert | time: 25,08 swaps: 14029106 comp: 14021607
+Merge | time: 1,66 swaps: 193616 comp: 276428
+Quicksort | time: 0,74 swaps: 61035 comp: 120952
+DPQuicksort | time: 0,78 swaps: 38897 comp: 114078
+
+n: 7600
+Insert | time: 30,68 swaps: 14430821 comp: 14423222
+Merge | time: 1,82 swaps: 196416 comp: 280354
+Quicksort | time: 1,03 swaps: 53981 comp: 115604
+DPQuicksort | time: 1,09 swaps: 40715 comp: 121060
+
+n: 7700
+Insert | time: 43,8 swaps: 14789101 comp: 14781402
+Merge | time: 2,07 swaps: 199216 comp: 284556
+Quicksort | time: 0,99 swaps: 57194 comp: 121168
+DPQuicksort | time: 2,22 swaps: 37727 comp: 116349
+
+n: 7800
+Insert | time: 49,81 swaps: 15141186 comp: 15133387
+Merge | time: 2,52 swaps: 202016 comp: 288207
+Quicksort | time: 1,04 swaps: 61531 comp: 111605
+DPQuicksort | time: 16,38 swaps: 42293 comp: 118422
+
+n: 7900
+Insert | time: 42,88 swaps: 15426877 comp: 15418978
+Merge | time: 2,03 swaps: 204816 comp: 292373
+Quicksort | time: 1,09 swaps: 63020 comp: 114746
+DPQuicksort | time: 0,86 swaps: 38886 comp: 114504
+
+n: 8000
+Insert | time: 43,07 swaps: 15943238 comp: 15935239
+Merge | time: 1,97 swaps: 207616 comp: 296303
+Quicksort | time: 0,9 swaps: 72192 comp: 121900
+DPQuicksort | time: 1,19 swaps: 45903 comp: 131923
+
+n: 8100
+Insert | time: 31,81 swaps: 16293682 comp: 16285583
+Merge | time: 1,94 swaps: 210416 comp: 300255
+Quicksort | time: 1,08 swaps: 62565 comp: 114550
+DPQuicksort | time: 1,2 swaps: 43247 comp: 129472
+
+n: 8200
+Insert | time: 31,86 swaps: 16772440 comp: 16764241
+Merge | time: 1,88 swaps: 213232 comp: 304350
+Quicksort | time: 1,12 swaps: 68451 comp: 121617
+DPQuicksort | time: 1,21 swaps: 42654 comp: 121661
+
+n: 8300
+Insert | time: 26,91 swaps: 17300595 comp: 17292296
+Merge | time: 1,62 swaps: 216232 comp: 308682
+Quicksort | time: 1,24 swaps: 71730 comp: 126339
+DPQuicksort | time: 1,26 swaps: 40958 comp: 121144
+
+n: 8400
+Insert | time: 33,75 swaps: 17899172 comp: 17890773
+Merge | time: 2,11 swaps: 219232 comp: 312936
+Quicksort | time: 1,05 swaps: 72656 comp: 131447
+DPQuicksort | time: 0,86 swaps: 42205 comp: 126862
+
+n: 8500
+Insert | time: 32,63 swaps: 17849828 comp: 17841329
+Merge | time: 1,61 swaps: 222232 comp: 317074
+Quicksort | time: 0,89 swaps: 66931 comp: 131869
+DPQuicksort | time: 0,88 swaps: 42361 comp: 129621
+
+n: 8600
+Insert | time: 39,82 swaps: 18597673 comp: 18589074
+Merge | time: 2,18 swaps: 225232 comp: 321518
+Quicksort | time: 1,24 swaps: 76186 comp: 132215
+DPQuicksort | time: 1,43 swaps: 42733 comp: 126904
+
+n: 8700
+Insert | time: 51,46 swaps: 18906211 comp: 18897512
+Merge | time: 2,05 swaps: 228232 comp: 325926
+Quicksort | time: 5,67 swaps: 70767 comp: 126777
+DPQuicksort | time: 1,21 swaps: 47260 comp: 133271
+
+n: 8800
+Insert | time: 35,01 swaps: 19388005 comp: 19379206
+Merge | time: 2,4 swaps: 231232 comp: 330482
+Quicksort | time: 1,32 swaps: 73242 comp: 131220
+DPQuicksort | time: 1,42 swaps: 45562 comp: 140822
+
+n: 8900
+Insert | time: 27,7 swaps: 19771758 comp: 19762859
+Merge | time: 1,55 swaps: 234232 comp: 334614
+Quicksort | time: 1,04 swaps: 85867 comp: 141096
+DPQuicksort | time: 0,91 swaps: 45020 comp: 135493
+
+n: 9000
+Insert | time: 25,15 swaps: 20304001 comp: 20295002
+Merge | time: 1,48 swaps: 237232 comp: 338925
+Quicksort | time: 0,9 swaps: 79896 comp: 138005
+DPQuicksort | time: 0,92 swaps: 45283 comp: 134524
+
+n: 9100
+Insert | time: 26,26 swaps: 20526703 comp: 20517604
+Merge | time: 1,5 swaps: 240232 comp: 343401
+Quicksort | time: 0,92 swaps: 76371 comp: 138536
+DPQuicksort | time: 0,94 swaps: 43899 comp: 137909
+
+n: 9200
+Insert | time: 29,13 swaps: 21082843 comp: 21073644
+Merge | time: 1,54 swaps: 243232 comp: 347630
+Quicksort | time: 0,93 swaps: 81030 comp: 140247
+DPQuicksort | time: 0,97 swaps: 51752 comp: 144469
+
+n: 9300
+Insert | time: 41,99 swaps: 21521187 comp: 21511888
+Merge | time: 2,29 swaps: 246232 comp: 351917
+Quicksort | time: 1,17 swaps: 76093 comp: 137502
+DPQuicksort | time: 0,95 swaps: 46899 comp: 139246
+
+n: 9400
+Insert | time: 38,56 swaps: 22095235 comp: 22085836
+Merge | time: 1,53 swaps: 249232 comp: 356512
+Quicksort | time: 0,93 swaps: 78357 comp: 141045
+DPQuicksort | time: 0,99 swaps: 51901 comp: 150045
+
+n: 9500
+Insert | time: 29,92 swaps: 22740992 comp: 22731493
+Merge | time: 1,57 swaps: 252232 comp: 360641
+Quicksort | time: 0,97 swaps: 92106 comp: 154876
+DPQuicksort | time: 1,2 swaps: 56800 comp: 163613
+
+n: 9600
+Insert | time: 29,59 swaps: 22888167 comp: 22878568
+Merge | time: 1,58 swaps: 255232 comp: 364969
+Quicksort | time: 1,02 swaps: 109649 comp: 173133
+DPQuicksort | time: 1,07 swaps: 56492 comp: 164173
+
+n: 9700
+Insert | time: 31,6 swaps: 23375522 comp: 23365823
+Merge | time: 1,64 swaps: 258232 comp: 369246
+Quicksort | time: 1,07 swaps: 91021 comp: 150625
+DPQuicksort | time: 1,02 swaps: 54871 comp: 154575
+
+n: 9800
+Insert | time: 30,72 swaps: 23865345 comp: 23855546
+Merge | time: 1,73 swaps: 261232 comp: 373556
+Quicksort | time: 0,94 swaps: 81136 comp: 143733
+DPQuicksort | time: 1,01 swaps: 49352 comp: 153141
+
+n: 9900
+Insert | time: 29,79 swaps: 24451416 comp: 24441517
+Merge | time: 1,51 swaps: 264232 comp: 377920
+Quicksort | time: 0,94 swaps: 84773 comp: 175363
+DPQuicksort | time: 1,04 swaps: 51289 comp: 162975
+
+n: 10000
+Insert | time: 31,29 swaps: 24665295 comp: 24655296
+Merge | time: 1,66 swaps: 267232 comp: 382231
+Quicksort | time: 0,99 swaps: 86950 comp: 153452
+DPQuicksort | time: 1,0 swaps: 48234 comp: 143271
+

@@ -1,0 +1,56 @@
+n: 50
+Insert | time: 9,1ms, swaps: 728 comp: 728 memory: 609904
+Merge | time: 0,08ms, swaps: 572 comp: 766 memory: 2006440
+Quicksort | time: 0,04ms, swaps: 150 comp: 222 memory: 1324896
+DPQuicksort | time: 0,06ms, swaps: 125 comp: 282 memory: 1325160
+Radixsort | time : 0,06ms, swaps: 236 comp: 453 memory: 1325616
+
+n: 100
+Insert | time: 10,15ms, swaps: 2640 comp: 2640 memory: 645016
+Merge | time: 0,25ms, swaps: 1344 comp: 1846 memory: 1327080
+Quicksort | time: 0,09ms, swaps: 511 comp: 784 memory: 1327544
+DPQuicksort | time: 0,08ms, swaps: 221 comp: 594 memory: 1328008
+Radixsort | time : 0,08ms, swaps: 436 comp: 853 memory: 1328864
+
+n: 500
+Insert | time: 9,51ms, swaps: 61514 comp: 61514 memory: 648216
+Merge | time: 0,79ms, swaps: 8976 comp: 12552 memory: 1331872
+Quicksort | time: 0,55ms, swaps: 2680 comp: 4475 memory: 1333936
+DPQuicksort | time: 0,6ms, swaps: 1905 comp: 4860 memory: 1336000
+Radixsort | time : 0,6ms, swaps: 2036 comp: 4053 memory: 1340056
+
+n: 1000
+Insert | time: 6,02ms, swaps: 244691 comp: 244691 memory: 1333808
+Merge | time: 0,43ms, swaps: 19952 comp: 28086 memory: 1339968
+Quicksort | time: 0,23ms, swaps: 6995 comp: 11239 memory: 1344032
+DPQuicksort | time: 0,18ms, swaps: 3729 comp: 10542 memory: 1348096
+Radixsort | time : 0,18ms, swaps: 4036 comp: 8053 memory: 1356152
+
+n: 5000
+Insert | time: 18,45ms, swaps: 6159712 comp: 6159712 memory: 686392
+Merge | time: 1,47ms, swaps: 123616 comp: 176194 memory: 1388056
+Quicksort | time: 1,28ms, swaps: 45257 comp: 72765 memory: 1408120
+DPQuicksort | time: 1,07ms, swaps: 24782 comp: 70726 memory: 1428184
+Radixsort | time : 1,07ms, swaps: 20036 comp: 40053 memory: 1468240
+
+n: 10000
+Insert | time: 55,31ms, swaps: 24826251 comp: 24826251 memory: 726392
+Merge | time: 2,74ms, swaps: 267232 comp: 382291 memory: 1448056
+Quicksort | time: 1,26ms, swaps: 85038 comp: 150752 memory: 1488120
+DPQuicksort | time: 1,6ms, swaps: 53282 comp: 155741 memory: 1528184
+Radixsort | time : 1,6ms, swaps: 40036 comp: 80053 memory: 1608240
+
+n: 50000
+Insert | time: 1200,69ms, swaps: 625146354 comp: 625146354 memory: 1046392
+Merge | time: 17,28ms, swaps: 1568928 comp: 2259618 memory: 1928056
+Quicksort | time: 8,23ms, swaps: 564687 comp: 982200 memory: 2128128
+DPQuicksort | time: 8,43ms, swaps: 299233 comp: 913657 memory: 2328192
+Radixsort | time : 8,43ms, swaps: 200036 comp: 400053 memory: 2728248
+
+n: 100000
+Insert | time: 3179,38ms, swaps: 2494751359 comp: 2494751359 memory: 1446392
+Merge | time: 21,77ms, swaps: 3337856 comp: 4818793 memory: 2528056
+Quicksort | time: 12,25ms, swaps: 1410247 comp: 2165137 memory: 2928128
+DPQuicksort | time: 11,67ms, swaps: 670149 comp: 1984301 memory: 3328200
+Radixsort | time : 11,67ms, swaps: 400036 comp: 800053 memory: 3317032
+
